@@ -1,4 +1,6 @@
 *.class
+*.db
+bin
 
 # Package Files #
 *.jar
